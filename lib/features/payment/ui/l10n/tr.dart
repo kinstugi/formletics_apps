@@ -1,0 +1,17 @@
+final Map<String, String> paymentTrLocaleHashMap = {
+  'my_basket': 'Sepetim',
+  'basket_empty': 'Sepetiniz boş!',
+  'are_you_sure': 'Emin misin?',
+  'yes': 'Evet',
+  'no': 'Hayır',
+  'flavored': 'Aromalı',
+  'gift': 'hediyeli',
+  'sample_trainer': 'Sample Trainer',
+  'monthly': 'Aylık',
+  'proceed_to_payment': 'ÖDEMEYE İLERLE',
+  'product_total': 'Ürün Toplam',
+  'service_total': 'Service Total',
+  'total': 'Toplam',
+  'free': 'Ücretsiz',
+  'shipping_fee': 'nakliye ücreti',
+};

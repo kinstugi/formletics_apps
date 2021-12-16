@@ -1,0 +1,27 @@
+final Map<String, String> gymsEnLocaleHashMap = {
+  'pnf_body_text': '404 page not found',
+  'pnf_page_title': '404',
+  'gym': 'Gym',
+  'sport_halls': 'Sport Halls',
+  'student': 'Student',
+  'description': 'DESCRIPTION',
+  'no_description': 'There is no description yet.',
+  'images': 'IMAGES',
+  'trainers': 'TRAINERS',
+  'no_trainer': 'There is no trainer yet.',
+  'ask_offer': 'OFFER REQUEST',
+  'personal_trainer': 'Personal Trainer',
+  'search': 'Search',
+  'be_the_strongest': 'Be The Strongest!',
+  'visit_sport_halls': 'Visit sport halls to be the strongest',
+  'prominent_sport_halls': 'PROMINENT SPORT HALLS',
+  'sample_gym': 'Sample Gym',
+  'nearby_sport_halls': 'NEARBY SPORT HALLS',
+  'all_sport_halls': 'All Sport Halls',
+  'loading': 'Loading',
+  'unexpected_error': 'Unexpected error occurred :(',
+  'end': 'End',
+  'start_choose_trainer':
+      'You can start working by choosing one of our experienced trainers staff.',
+  'introductory_video': "introductory video"
+};

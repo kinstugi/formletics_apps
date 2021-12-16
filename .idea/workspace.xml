@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a4b9ab5-6e8e-4764-a4ad-95e9508eff79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/features/login/ui/store/auth_methods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/0/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/0/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/1/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/1/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/2/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/2/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/3/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/3/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/4/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/4/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/5/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/5/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/api_client/api_client.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/api_client/api_errors/api_error_message_error.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/di/dio_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/di/logger_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/di/network_info_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/di/shared_preferences_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/helpers/flash_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/helpers/flushbar_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/models/language_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/models/theme_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/common/network/network_info.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/data/data_source/todo_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/data/models/todo_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/data/models/user_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/data/models/user_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/ui/store/todo_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/apitest/ui/store/todo_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/app/data/controllers/app_controller.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/app/data/data_sources/app_local_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/app/data/repositories/app_repository.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/app/ui/store/app_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/app/ui/store/app_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/location/data/data_sources/location_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/location/data/models/location_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/location/ui/store/location_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/location/ui/store/location_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/controllers/login_controller.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/data_sources/login_local_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/data_sources/login_remote_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/models/authentication_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/models/post_login_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/models/post_login_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/models/user_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/data/repositories/login_repository.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/ui/store/login_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/ui/store/login_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/ui/store/login_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/login/ui/store/login_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/data_sources/gym_panel_data_sources.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/manager/request/gym_panel_manager_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/manager/response/gym_panel_add_manager_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/manager/response/gym_panel_manager_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/request/gym_panel_trainer_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/gym_panel_add_trainer_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/gym_panel_trainer_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/trainers.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/data_sources/trainer_panel_data_sources.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/request/change_sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/response/approve.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/response/change_sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/service/request/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/service/response/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/service/response/service_success.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/add_routine.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_days.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_nested_exercise.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/supplement_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/trainer_panel_sportsman_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/user.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/add_routine_response.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/no.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_all_exercise_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_sportsman_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/yes.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/data_sources/payment_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/data_sources/payment_pay_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_add_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_add_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_change_quantity_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_price_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_product_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/data/models/basket_service_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/ui/store/payment_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/payment/ui/store/payment_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/search/data/data_source/search_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/search/ui/stores/search_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/search/ui/stores/search_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/dashboard/data/data_sources/dashboard_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/data/data_sources/gym_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/data/models/gym_cut_reponse_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/data/models/gym_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/data/models/gym_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/data/models/gyms_list_card_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/gym/ui/store/my_gym_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/data/data_sources/photo_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/data/models/photo_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/data_sources/routine_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_days_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_group_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_list_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_list_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_nutrition_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/data/models/routine_service_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/data_sources/trainer_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/models/trainer_cut_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/models/trainer_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/models/trainer_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/models/trainer_service_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/data/models/trainers_highlights_card_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.injectable 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.store_generator.g 2.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/services/analytics_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/services/crashes_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/services/pushes_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/utils/alerts/alerts.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/utils/alerts/alerts_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build 2/generated/formletics/lib/utils/log/log_it.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/0/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/0/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/1/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/1/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/2/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/2/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/3/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/3/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/4/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/4/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/5/lib/common/di/di.iconfig 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/098d3ee73e6cc294616d3a2e2c3c81ad/error_cache/formletics/5/lib/common/router/router.gr 2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/entrypoint/.packageLocations" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/entrypoint/build.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/api_client/api_client.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/api_client/api_errors/api_error_message_error.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/di/dio_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/di/logger_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/di/network_info_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/di/shared_preferences_di.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/helpers/flash_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/helpers/flushbar_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/models/language_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/models/theme_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/common/network/network_info.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/data/data_source/todo_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/data/models/todo_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/data/models/user_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/data/models/user_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/ui/store/todo_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/apitest/ui/store/todo_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/app/data/controllers/app_controller.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/app/data/data_sources/app_local_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/app/data/repositories/app_repository.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/app/ui/store/app_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/app/ui/store/app_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/location/data/data_sources/location_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/location/data/models/location_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/location/ui/store/location_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/location/ui/store/location_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/controllers/login_controller.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/data_sources/login_local_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/data_sources/login_remote_data_source.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/models/authentication_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/models/post_login_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/models/post_login_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/models/user_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/data/repositories/login_repository.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/ui/store/login_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/login/ui/store/login_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/data_sources/gym_panel_data_sources.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/manager/request/gym_panel_manager_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/manager/response/gym_panel_add_manager_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/manager/response/gym_panel_manager_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/request/gym_panel_trainer_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/gym_panel_add_trainer_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/gym_panel_trainer_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/data/models/trainer/response/trainers.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/gym_panel/ui/store/gym_panel_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/data_sources/trainer_panel_data_sources.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/request/change_sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/response/approve.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/approve/response/change_sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/service/request/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/service/response/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/service/response/service_success.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/add_routine.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_days.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/exercise_nested_exercise.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/sportsman.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/supplement_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/trainer_panel_sportsman_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/request/user.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/add_routine_response.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/no.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_all_exercise_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_group.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/trainer_panel_sportsman_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/data/models/sportsman/response/yes.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/panels/trainer_panel/ui/store/trainer_panel_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/data_sources/payment_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/data_sources/payment_pay_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_add_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_add_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_change_quantity_request_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_price_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_product_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/data/models/basket_service_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/ui/store/payment_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/payment/ui/store/payment_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/search/data/data_source/search_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/search/ui/stores/search_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/search/ui/stores/search_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/dashboard/data/data_sources/dashboard_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/dashboard/ui/store/dashboard_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/data/data_sources/gym_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/data/models/gym_cut_reponse_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/data/models/gym_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/data/models/gym_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/data/models/gyms_list_card_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/ui/store/gym_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/gym/ui/store/my_gym_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/photo/data/data_sources/photo_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/photo/data/models/photo_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/photo/ui/store/photo_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/data_sources/routine_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_days_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_group_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_exercise_list_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_list_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_nutrition_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_service.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/data/models/routine_service_list.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/routine/ui/store/routine_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/data_sources/trainer_data_source.retrofit.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/models/trainer_cut_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/models/trainer_detail_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/models/trainer_list_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/models/trainer_service_response_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/data/models/trainers_highlights_card_model.json_serializable.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/features/tabs/trainer/ui/store/trainer_store.store_generator.g.part" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/services/analytics_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/services/crashes_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/services/pushes_service.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/utils/alerts/alerts.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/utils/alerts/alerts_helper.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build/generated/formletics/lib/utils/log/log_it.injectable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/build_resolvers/sdk.sum.deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/debug_android_application.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/kernel_snapshot.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/kernel_snapshot.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/flutter_build/7ce1d00b25fa94d2185ebb4a71ef25a7/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool 2/package_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies 3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/formletics/mobile/formletics/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/io/ganeshrvel/flutter_mobx_dio_boilerplate/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/io/ganeshrvel/fluttermobxdioboilerplate/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings_aar.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated 2.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment 2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/FormleticsApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Formletics/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/FormleticsTests/FormleticsTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/FormleticsTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/FormleticsUITests/FormleticsUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/FormleticsUITests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/api_client/api_client.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/api_client/api_client.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/router/router.gr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/router/router.gr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants/urls.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/urls.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/app/ui/pages/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/app/ui/pages/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/home/ui/l10n/en.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/home/ui/l10n/en.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/home/ui/l10n/tr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/home/ui/l10n/tr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/data/controllers/login_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/data/controllers/login_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/data/data_sources/login_local_data_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/data/data_sources/login_local_data_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/data/data_sources/login_remote_data_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/data/data_sources/login_remote_data_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/data/repositories/login_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/data/repositories/login_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/l10n/en.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/l10n/en.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/l10n/tr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/l10n/tr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/pages/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/pages/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/pages/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/pages/root_auth_trainer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/pages/root_auth_trainer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/store/login_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/store/login_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/login/ui/store/login_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/login/ui/store/login_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/data/models/chat/response/chats_model_response.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/data/models/sportsman/response/progress_photo_response_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/message/message_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/message/message_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/message/message_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/sportsman/photo_detail_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/sportsman/sportsman_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/sportsman/sportsman_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/sportsman/sportsman_photo_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/trainer_panel_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/pages/trainer_panel_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/create_schedule_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/custom_expansion_body.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/custom_expansion_head.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/message_chat_bubble.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/message_input_send.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/message_tile_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/message_tile_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/routine_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/panels/trainer_panel/ui/widgets/trainer_progress_photo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/payment/ui/store/payment_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/payment/ui/store/payment_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/dashboard/data/data_sources/dummy_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/dashboard/data/data_sources/dummy_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/dashboard/ui/pages/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/dashboard/ui/pages/dashboard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/gym/ui/pages/gym_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/gym/ui/pages/gym_detail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/data/data_sources/routine_data_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/routine/data/data_sources/routine_data_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/data/models/progress_photo_upload_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/data/models/service_response_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/data/providers/progress_photo_upload_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/l10n/en.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/routine/ui/l10n/en.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/l10n/tr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/routine/ui/l10n/tr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/routine_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/routine_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/sub_pages/order_history_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/sub_pages/sub_pages/upload_form_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/sub_pages/sub_pages/upload_to_trainer_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/sub_pages/training_videos_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/pages/sub_pages/upload_photos_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/store/routine_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/routine/ui/store/routine_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/menu_card_grid.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/order_history_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/select_form_type_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/student_photo_upload_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/trainer_video_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/routine/ui/widgets/upload_photo_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/tabs/trainer/ui/pages/trainer_detail_service_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/tabs/trainer/ui/pages/trainer_detail_service_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/drawer/ui_drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/drawer/ui_drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="alpha_sliders" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pFSDxmdNHZyAJiT9kqvRcwUmFQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/features/search/ui/pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4b9ab5-6e8e-4764-a4ad-95e9508eff79" name="Default Changelist" comment="" />
+      <created>1614777229143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614777229143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1628172265190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1628172265190" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1627851632215" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1628172265188">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1628172265188" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1627851632212" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1628172265187">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1628172265187" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1627851632210" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1628172265189">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1628172265189" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1627851632213" />
+    <state width="464" height="78" key="javadoc.popup.new" timestamp="1628075754722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="464" height="78" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1628075754722" />
+    <state x="450" y="291" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1627985040249">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="291" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1627985040249" />
+  </component>
+</project>

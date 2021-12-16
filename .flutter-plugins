@@ -1,0 +1,21 @@
+# This is a generated file; do not edit or check into version control.
+cached_video_player=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_video_player-1.0.3/
+flutter_plugin_android_lifecycle=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+image_picker=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+22/
+multi_image_picker=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.7.15/
+path_provider=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.28/
+path_provider_linux=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+8/
+path_provider_windows=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3/
+screen=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/
+searchable_dropdown=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/searchable_dropdown-1.1.3/
+shared_preferences=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/
+shared_preferences_linux=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4/
+shared_preferences_macos=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11/
+shared_preferences_web=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
+shared_preferences_windows=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.2+3/
+sqflite=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.2+4/
+video_player=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.12+5/
+video_player_web=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.4+1/
+wakelock=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.4+2/
+webview_flutter=/Users/edna/development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-1.0.7/
